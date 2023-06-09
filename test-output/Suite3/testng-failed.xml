@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite3]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <test thread-count="5" name="Test3(failed)">
+    <classes>
+      <class name="testng.TNG_003">
+        <methods>
+          <include name="endProcess"/>
+          <include name="amazon"/>
+          <include name="startProcess"/>
+        </methods>
+      </class> <!-- testng.TNG_003 -->
+    </classes>
+  </test> <!-- Test3(failed) -->
+</suite> <!-- Failed suite [Suite3] -->

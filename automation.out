@@ -1,0 +1,15 @@
+init the properties files.....
+Opening the Browser : chrome
+Navigate gto url : https://www.amazon.in
+Selected the option Books By using locator : searchDropdownBox
+Entering the text Harry potter By using the locator : field-keywords
+Clicked the element by using locator : //*[@id="nav-search-submit-button"]
+init the properties files.....
+Opening the Browser : chrome
+Navigate gto url : https://www.amazon.in
+Selected the option Books By using locator : searchDropdownBox
+Entering the text Harry potter By using the locator : field-keywords
+Clicked the element by using locator : //*[@id="nav-search-submit-button"]
+Retrying test amazon with status FAILURE for the 1 time(s).
+Retrying test amazon with status FAILURE for the 2 time(s).
+Retrying test amazon with status FAILURE for the 3 time(s).
